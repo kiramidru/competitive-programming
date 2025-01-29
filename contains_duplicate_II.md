@@ -1,3 +1,4 @@
+```
 use std::collections::HashSet;
 
 impl Solution {
@@ -16,3 +17,5 @@ impl Solution {
         return false;
     }
 }
+```
+
