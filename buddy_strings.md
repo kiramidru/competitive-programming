@@ -1,3 +1,4 @@
+```
 use std::collections::HashMap;
 
 impl Solution {
@@ -36,3 +37,4 @@ impl Solution {
         return false;
     }
 }
+```
