@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "set_mismatch"
             }
+          },
+          {
+            "id": "fcce5dc35ec22781",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d47dac218b6113f",
+  "active": "fcce5dc35ec22781",
   "lastOpenFiles": [
     "contains_duplicate_II.md",
     "set_mismatch.md",
