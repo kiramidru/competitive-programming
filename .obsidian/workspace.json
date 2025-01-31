@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "fcce5dc35ec22781",
+            "id": "f94267e9021f43cd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "valid_word.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "valid_word"
             }
           }
         ],
@@ -201,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcce5dc35ec22781",
+  "active": "f94267e9021f43cd",
   "lastOpenFiles": [
-    "contains_duplicate_II.md",
     "set_mismatch.md",
+    "valid_word.md",
+    "contains_duplicate_II.md",
     "buddy_strings.md"
   ]
 }
