@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valid_word.md",
+                "file": "special_array_I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valid_word"
+              "title": "special_array_I"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "f94267e9021f43cd",
   "lastOpenFiles": [
-    "set_mismatch.md",
     "valid_word.md",
+    "special_array_I.md",
+    "set_mismatch.md",
     "contains_duplicate_II.md",
     "buddy_strings.md"
   ]
