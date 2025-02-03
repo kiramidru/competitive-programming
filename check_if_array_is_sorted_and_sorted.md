@@ -1,4 +1,4 @@
-```
+l```
 impl Solution {
 	pub fn check(nums: Vec<i32>) -> bool {
 		let mut changes = 0;
