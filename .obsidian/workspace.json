@@ -77,10 +77,14 @@
             "id": "88df09c171d9382d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -239,8 +243,8 @@
   },
   "active": "88df09c171d9382d",
   "lastOpenFiles": [
-    "special_array_I.md",
     "Untitled.md",
+    "special_array_I.md",
     "count_number_of_bad_pairs.md",
     "find_the_number_of_distinct_colors_among_the_balls.md",
     "check_if_one_string_swap_can_make_strings_equal.md",
