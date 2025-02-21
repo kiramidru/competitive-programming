@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "buddy_strings.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buddy_strings"
+              "title": "Untitled"
             }
           }
         ],
@@ -299,8 +299,9 @@
   },
   "active": "1997f43871089263",
   "lastOpenFiles": [
-    "3-sum.md",
     "buddy_strings.md",
+    "Untitled.md",
+    "3-sum.md",
     "two-sum.md",
     "minimum_operations_to_exceed_threshold_value_II.md",
     "max-sum-of-a-pair-with-equal-sum-of-digits.md",
