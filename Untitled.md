@@ -6,15 +6,10 @@ struct FindElements {
 macro_rules! node_as_ref {
 	($node:expr) => {
 		$node
-
 .as_ref()
-
 .map(|root| root.borrow())
-
 .as_ref()
-
 .map(|umm| &**umm)
-
 };
 
 }
